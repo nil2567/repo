@@ -1,4 +1,6 @@
 file2.txt
 
+some more changes
+
 
 to ignore
