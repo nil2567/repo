@@ -1,5 +1,12 @@
 asfdasddsfd
 
+<<<<<<< HEAD
 inserted at fix hotfix
 
 git master
+=======
+a:nserted at fix20
+
+
+git fix21
+>>>>>>> fix21
